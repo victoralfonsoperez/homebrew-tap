@@ -1,8 +1,8 @@
 cask "scribe" do
-  version "0.1.1"
+  version "0.1.2"
 
   url "https://github.com/victoralfonsoperez/scribe/releases/download/v#{version}/Scribe-#{version}-arm64.dmg"
-  sha256 "711dd392e3c5be699ba07bf9713241d58ab2f463aed04f15ec551cf2bbe353b1"
+  sha256 "c9296b541a87066da1de39a00199dcc82787201f76e95e6e54afa41f097f776d"
 
   name "Scribe"
   desc "Local-first meeting transcription and summarization for macOS"
